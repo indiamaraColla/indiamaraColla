@@ -15,9 +15,3 @@ Adoro trabalhar no front-end porque me permite combinar minha criatividade com h
 # 🌐 Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/indiamara_colla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indiamara-colla) 
 
-# 📊 Estatísticas do GitHub:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=indiamaraColla&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=indiamaraColla&theme=neon&hide_border=false"  width="400px" />
-
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=indiamaraColla&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
