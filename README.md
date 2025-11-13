@@ -17,7 +17,7 @@ Possuo experiência com React, Next.js, JavaScript, TypeScript, Redux Toolkit, S
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) 
-![Zustand](https://img.shields.io/badge/zustand-%234D2B1F.svg?style=for-the-badge&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23FFFFFF.svg?style=for-the-badge&logoColor=black)
 ![Context API](https://img.shields.io/badge/context%20api-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Sass](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white) 
